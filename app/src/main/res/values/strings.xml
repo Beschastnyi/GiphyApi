@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gifs_enter_name">Enter Gifs Title</string>
+</resources>
